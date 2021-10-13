@@ -17,7 +17,7 @@ Strength of your password depends on three Factor:-
  include uppercase:- 52^digit= max password combination for both lower and upper.
  include number:- 62^digit= max possible password combinations.
  include symbols:- 72^digits will be max password combination including lower case, uppercase, number and symbols.
- ![alt text](./readme_images/image1).
+ ![alt text](/readme_images/image1).
 
 
 
