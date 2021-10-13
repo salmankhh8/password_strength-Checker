@@ -10,6 +10,6 @@ Strength of your password depends on three Factor:-
 * How many digits your password have.eg:- 4 digits(asdf), 5 digits(4sdjg) etc.
 * how many passwords can be cracked in a second using Brute-force method.
 
-[click here] for detail explanation(https://asecuritysite.com/encryption/passes).
+[click here](https://asecuritysite.com/encryption/passes) for detail explanation.
 
 ### Explanation:-
